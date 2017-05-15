@@ -1,0 +1,19 @@
+{
+  "name": "cordova-webintent",
+  "version": "1.0.0",
+  "description": "Web intents for Cordova",
+  "main": "www/webintent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HealthEquityInc/cordova-webintent.git"
+  },
+  "author": "HealthEquity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HealthEquityInc/cordova-webintent/issues"
+  },
+  "homepage": "https://github.com/HealthEquityInc/cordova-webintent#readme"
+}
